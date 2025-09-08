@@ -1,0 +1,9 @@
+/* Project overrides */
+:root {
+	color-scheme: dark;
+}
+
+a { color: inherit; }
+
+/* Remove Vite starter constraints so layout can be full-width and responsive */
+#root { min-height: 100vh; }
